@@ -10,5 +10,6 @@ automatic adaptive TD)
 - Fix font bug
 - Fix move bug
 - Remove trash
+- Remove CEF
 
 Video: https://www.youtube.com/watch?v=q5zB-frQco0
